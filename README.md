@@ -1,5 +1,6 @@
 # javascript-calendar-widget
-![20230901_040617_0000](https://github.com/AsmrWebCoding/javascript-calendar-widget/assets/138141838/32624889-3262-4ec4-96a6-a735a94bd00b)
+![calendar](https://github.com/AsmrWebCoding/javascript-calendar-widget/assets/138141838/ed423418-90de-403d-9042-c11fc1a6f7b5)
+
 
 This JavaScript source code helps you to create an simple calendar widget
 
